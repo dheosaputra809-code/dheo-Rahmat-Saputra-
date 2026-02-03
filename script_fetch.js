@@ -42,5 +42,4 @@ fetch("students_rows.json")
       </tr>
     `;
   });
-
-
+    
